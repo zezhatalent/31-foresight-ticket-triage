@@ -1,0 +1,7 @@
+[
+  { "id": "T-201", "subject": "UPI payment failed order not placed", "body": "paid via UPI but no confirmation sms received" },
+  { "id": "T-202", "subject": "Cannot login says invalid otp", "body": "otp not coming on my number since morning" },
+  { "id": "T-203", "subject": "Exchange request for defective fan", "body": "fan making loud noise within warranty period want replacement" },
+  { "id": "T-204", "subject": "Bulk order for Diwali corporate gifting", "body": "need quotation for 200 gift hampers with GST invoice" },
+  { "id": "T-205", "subject": "Refund status pending 12 days", "body": "refund promised in 7 days still not credited very frustrated" }
+]
